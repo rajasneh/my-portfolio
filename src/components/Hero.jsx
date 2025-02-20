@@ -19,11 +19,11 @@ const Hero = () => {
 
           <div>
           <h1 className={`${styles.heroHeadText} text-white lg:mt-10`}>
-            Hi, I'm <span className='text-[#915EFF]'>Adrian</span>
+            Hi, I'm <span className='text-[#915EFF]'>Asneh</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 lg:mt-10 text-white-100`}>
-            I develop 3D visuals, user <br className='sm:block hidden' />
-            interfaces and web applications
+          I develop full-stack web applications, from<br className='sm:block hidden' />
+          frontend user interface to backend system.
           </p>
           <a
               href="/resume.pdf" // Change this to the actual resume path
