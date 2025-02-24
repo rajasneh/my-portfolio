@@ -26,7 +26,7 @@ const Hero = () => {
           frontend user interface to backend system.
           </p>
           <a
-              href="/resume.pdf" // Change this to the actual resume path
+              href="/Asneh_s_Resume.pdf" // Change this to the actual resume path
               download
               className="mt-5 inline-flex items-center bg-[#915EFF] text-white font-bold py-2 px-5 rounded-md shadow-lg hover:bg-[#7a48e5] transition-all duration-300 block sm:inline-flex lg:mt-10"
             >
